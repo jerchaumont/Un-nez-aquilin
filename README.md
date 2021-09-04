@@ -1,4 +1,3 @@
-# Un-nez-aquilin
 # *Un nez aquilin*
 ## Description
 *English below*
