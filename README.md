@@ -10,7 +10,7 @@
 
 ## Captures 
 <img src="GameImage.png" width="700">
-Tout commence avec une blessure...
+L'histoire commence dans les tranchées des troupes françaises.
 
 ## Installation 
  Télécharger le dossier (avec le bouton "Clone or download") et ouvrir le fichier intitulé "index.html" dans un navigateur web.
@@ -23,4 +23,4 @@ Le jeu n'est actuellement pas terminé.
 - DUGAIN, Marc, *La chambre des officiers*, Editions Jean-Claude Lattès, 1998.
 
 ## Contexte de développement 
-Ce projet a été développé par Jeremy Chaumont dans le cadre du cours "Jeu vidéo 2d", dispensé par Isaac Pante (Section SLI, Faculté des Lettres, Université de Lausanne) - Printemps 2021.
+Ce projet a été développé par Jeremy Chaumont dans le cadre du cours "Développement de jeux vidéo 2D", dispensé par Isaac Pante (Section SLI, Faculté des Lettres, Université de Lausanne) - Printemps 2021.
