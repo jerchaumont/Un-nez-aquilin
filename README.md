@@ -6,7 +6,7 @@
 
 --- 
 
-*Un nez aquilin* is a video game project in the form of an interactive fiction, developed with the scripting language [Ink] (https://www.inklestudios.com/ink/). The story immerses the reader/player in the daily life of a soldier of the First World War wounded in the face. It allows you to experience the life of the "gueules cassées" (broken faces), the name given to soldiers who have received facial wounds and who have suffered both psychological and physical trauma. This interactive fiction is inspired by * Hommes sans visage * (1942), testimony of Henriette Rémi, volunteer in a hospital for facially disfigured servicemen during the First World War. The game also takes as a source of inspiration the novel by Marc Dugain *La Chambre des officers* (1998).
+*Un nez aquilin* is a video game project in the form of an interactive fiction, developed with the scripting language [Ink](https://www.inklestudios.com/ink/). The story immerses the reader/player in the daily life of a soldier of the First World War wounded in the face. It allows you to experience the life of the "gueules cassées" (broken faces), the name given to soldiers who have received facial wounds and who have suffered both psychological and physical trauma. This interactive fiction is inspired by * Hommes sans visage * (1942), testimony of Henriette Rémi, volunteer in a hospital for facially disfigured servicemen during the First World War. The game also takes as a source of inspiration the novel by Marc Dugain *La Chambre des officers* (1998).
 
 ## Captures 
 <img src="GameScreenShot.png" width="700">
