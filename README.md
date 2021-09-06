@@ -13,7 +13,7 @@
 L'histoire débute en 1915, dans les tranchées des troupes françaises.
 
 ## Installation 
- Télécharger le dossier (avec le bouton "Clone or download") et ouvrir le fichier intitulé "index.html" dans un navigateur web.
+ Télécharger le dossier intitulé "Un nez aquilin" (bouton *Code*, puis *Download Zip*) et ouvrir le fichier intitulé "index.html" dans un navigateur web.
 
 ## Avertissement
 Le jeu n'est actuellement pas terminé.
