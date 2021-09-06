@@ -2,7 +2,7 @@
 ## Description
 *English below*
 
-*Un nez aquilin* est un projet de jeu vidéo prenant la forme d'une fiction interactive, développé avec le langage de script [Ink](https://www.inklestudios.com/ink/). L'histoire plonge le lecteur/joueur dans le quotidien d'un soldat de la première guerre mondiale blessé à la face. Il permet de faire l'expérience de la vie des "gueules cassées", nom donné aux soldats ayant reçu des blessures au visage et qui, face au regard de la société, ont subi  un traumatisme autant psychologique que physique. Cette fiction interactive s'inspire d'*Hommes sans visage*(1942), témoignage d'Henriette Rémi, volontaire dans un hôpital pour blessés de la face durant la première guerre mondiale. Le jeu prend également comme source d'inspiration le roman de Marc Dugain <i>La Chambre des officiers</i> (1998)(voir références \@ref(Références)).
+*Un nez aquilin* est un projet de jeu vidéo prenant la forme d'une fiction interactive, développé avec le langage de script [Ink](https://www.inklestudios.com/ink/). L'histoire plonge le lecteur/joueur dans le quotidien d'un soldat de la première guerre mondiale blessé à la face. Il permet de faire l'expérience de la vie des "gueules cassées", nom donné aux soldats ayant reçu des blessures au visage et qui, face au regard de la société, ont subi  un traumatisme autant psychologique que physique. Cette fiction interactive s'inspire d'*Hommes sans visage*(1942), témoignage d'Henriette Rémi, volontaire dans un hôpital pour blessés de la face durant la première guerre mondiale. Le jeu prend également comme source d'inspiration le roman de Marc Dugain <i>La Chambre des officiers</i> (1998)(voir références).
 
 --- 
 
